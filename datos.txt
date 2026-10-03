@@ -1,0 +1,15 @@
+[GRAFO1]
+PC1,Router
+PC2,Router
+PC3,Router
+Router,Servidor
+Servidor,Impresora
+PC4,Servidor
+
+[GRAFO2]
+Quito,Guayaquil
+Quito,Cuenca
+Quito,Ibarra
+Guayaquil,Cuenca
+Cuenca,Loja
+Ibarra,Otavalo

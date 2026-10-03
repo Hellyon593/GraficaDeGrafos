@@ -1,0 +1,14 @@
+C:\Users\SERVER\GraficaDeGrafos\obj\Debug\net10.0\GraficaDeGrafos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERVER\GraficaDeGrafos\obj\Debug\net10.0\GraficaDeGrafos.AssemblyInfoInputs.cache
+C:\Users\SERVER\GraficaDeGrafos\obj\Debug\net10.0\GraficaDeGrafos.AssemblyInfo.cs
+C:\Users\SERVER\GraficaDeGrafos\obj\Debug\net10.0\GraficaDeGrafos.csproj.CoreCompileInputs.cache
+C:\Users\SERVER\GraficaDeGrafos\bin\Debug\net10.0\GraficaDeGrafos.exe
+C:\Users\SERVER\GraficaDeGrafos\bin\Debug\net10.0\GraficaDeGrafos.deps.json
+C:\Users\SERVER\GraficaDeGrafos\bin\Debug\net10.0\GraficaDeGrafos.runtimeconfig.json
+C:\Users\SERVER\GraficaDeGrafos\bin\Debug\net10.0\GraficaDeGrafos.dll
+C:\Users\SERVER\GraficaDeGrafos\bin\Debug\net10.0\GraficaDeGrafos.pdb
+C:\Users\SERVER\GraficaDeGrafos\obj\Debug\net10.0\GraficaDeGrafos.dll
+C:\Users\SERVER\GraficaDeGrafos\obj\Debug\net10.0\refint\GraficaDeGrafos.dll
+C:\Users\SERVER\GraficaDeGrafos\obj\Debug\net10.0\GraficaDeGrafos.pdb
+C:\Users\SERVER\GraficaDeGrafos\obj\Debug\net10.0\GraficaDeGrafos.genruntimeconfig.cache
+C:\Users\SERVER\GraficaDeGrafos\obj\Debug\net10.0\ref\GraficaDeGrafos.dll
